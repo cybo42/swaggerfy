@@ -19,7 +19,11 @@
       "type": "git",
       "url": "https://github.com/cybo42/swaggerfy"
   },
-  "author": "Joe Cyboski <cybo42@gmail.com>",
+  "author": {
+      "name": "Joe Cyboski",
+       "email": "cybo42@gmail.com>",
+      "url": "http://cybo42.com"
+  },
   "contributors": [
       "Joe Cyboski <cybo42@gmail.com>"
 
