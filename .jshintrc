@@ -1,0 +1,33 @@
+{
+  "curly"        : true,
+  "eqeqeq"       : true,
+  "immed"        : true,
+  "latedef"      : true,
+  "newcap"       : true,
+  "noarg"        : true,
+  "sub"          : true,
+  "undef"        : true,
+  "boss"         : true,
+  "eqnull"       : true,
+  "node"         : true,
+  "laxcomma"     : true,
+  "noempty"      : true,
+  "nonew"        : true,
+  "trailing"     : true,
+  "maxcomplexity": 6,
+  "globals" : {
+    "it"         : false,
+    "jasmine"    : false,
+    "waits"      : false,
+    "runs"       : false,
+    "waitsFor"   : false,
+    "xit"        : false,
+    "describe"   : false,
+    "xdescribe"  : false,
+    "beforeEach" : false,
+    "afterEach"  : false,
+    "expect"     : false,
+    "spyOn"      : false
+  }
+}
+
