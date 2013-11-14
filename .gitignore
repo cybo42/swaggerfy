@@ -1,0 +1,5 @@
+.idea/
+node_modules/
+.grunt/
+dist/
+.DS_Store
