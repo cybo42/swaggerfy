@@ -1,6 +1,6 @@
 {
   "name": "swaggerfy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Annotate Routes for Swagger API documentation",
   "main": "index.js",
   "scripts": {
@@ -16,17 +16,16 @@
     "api"
   ],
   "repository": {
-      "type": "git",
-      "url": "https://github.com/cybo42/swaggerfy"
+    "type": "git",
+    "url": "https://github.com/cybo42/swaggerfy"
   },
   "author": {
-      "name": "Joe Cyboski",
-       "email": "cybo42@gmail.com>",
-      "url": "http://cybo42.com"
+    "name": "Joe Cyboski",
+    "email": "cybo42@gmail.com>",
+    "url": "http://cybo42.com"
   },
   "contributors": [
-      "Joe Cyboski <cybo42@gmail.com>"
-
+    "Joe Cyboski <cybo42@gmail.com>"
   ],
   "license": "MIT",
   "devDependencies": {
@@ -42,7 +41,7 @@
     "debug": "~0.7.3",
     "assert-plus": "~0.1.4"
   },
-  "bugs":{
-      "url": "https://github.com/cybo42/swaggerfy/issues"
+  "bugs": {
+    "url": "https://github.com/cybo42/swaggerfy/issues"
   }
 }
