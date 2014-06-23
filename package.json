@@ -1,6 +1,6 @@
 {
   "name": "swaggerfy",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Annotate Routes for Swagger API documentation",
   "main": "index.js",
   "scripts": {
